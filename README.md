@@ -24,3 +24,9 @@ ___
 <p align="center"><sub><a href="https://discordapp.com/users/1520289544333693053">discord // <a href="tiktok.com/@ungrateful_twat">tiktok</a></p>
 
 <p align="center"> $\color{#BE1328}{\textsf{こっぱみじんこに消しとばす}}$
+
+<p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow%207.gif" alt="Centered Image" width="900">
+</p>
+
+(inserting some of my other doodles here soon, possibly my f/o or synpath ........)
