@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://file.garden/ade0uRrc7hT3IuzM/meow%20meow%20meow%20meow%20meow.gif" alt="Centered Image" width="900">
+</p>
+
 <div align="center">
   <h1>$\color{#BE1328}{\textsf{【﻿ＴＥＨＡＭＩＮＴ】}}$</h1>
 </div>
